@@ -95,15 +95,15 @@ Material:
     - _ZTestGBuffer: 3
     - _ZTestTransparent: 3
     - _ZWrite: 1
-    - _depth: 1.1
-    - _normalstrenght: 0.784
-    - _smoothness: 1
-    - _strenght: 0.09
+    - _depth: 0.5
+    - _normalstrenght: 1
+    - _smoothness: 0.848
+    - _strenght: 0.21
     m_Colors:
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _deepcolor: {r: 0.16037735, g: 0.49708527, b: 0.6415094, a: 0}
-    - _shallowcolor: {r: 0.19215684, g: 0.5169389, b: 0.8, a: 0}
+    - _deepcolor: {r: 0.09803922, g: 0.6896553, b: 1, a: 0.3529412}
+    - _shallowcolor: {r: 0, g: 0.5354837, b: 1, a: 0.5176471}
   m_BuildTextureStacks: []
 --- !u!114 &2826592236607275755
 MonoBehaviour:
